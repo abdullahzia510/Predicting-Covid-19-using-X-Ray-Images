@@ -15,9 +15,16 @@ You can download dataset from [here](https://drive.google.com/open?id=1-HQQciKYf
 
 ## Results:
 ### Task 1: Training only Fully connected Layers
-VGG-16 Testing	Accuracy = 93.46
-VGG-16 Confusion Matrix
+#### VGG-16 Testing	Accuracy = 93.46
+#### VGG-16 Confusion Matrix
 ![](images/conf1.png )
-ResNet-18 Testing	Accuracy = 93.46
-ResNet-18 Confusion Matrix
+#### ResNet-18 Testing	Accuracy = 91.53
+#### ResNet-18 Confusion Matrix
 ![](images/conf2.png )
+### Task 2: Training only Fully connected Layers
+#### VGG-16 Testing	Accuracy = 97.57
+#### VGG-16 Confusion Matrix
+![](images/conf3.png )
+#### ResNet-18 Testing	Accuracy = 96.60
+#### ResNet-18 Confusion Matrix
+![](images/conf4.png )
