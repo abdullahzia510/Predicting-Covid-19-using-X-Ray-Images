@@ -5,7 +5,7 @@ This repository contains code and results for COVID-19 classification assignment
 You can download dataset from [here](https://drive.google.com/open?id=1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK "Dataset Link")
 ### Trained Models Link: 
 * You can download all trained models from [here](https://drive.google.com/open?id=13udumKPezxW8bQp4LJc1HoToKzhp4_OR)
-* Experiment # 1 (Only Fully-connected on VGG-16): You can download model from [here](https://drive.google.com        /open?id=1xKddrC4ONzry7hKutvkCgl3H-s5dJvuZ)
+* Experiment # 1 (Only Fully-connected on VGG-16): You can download model from [here](https://drive.google.com/open?id=1xKddrC4ONzry7hKutvkCgl3H-s5dJvuZ)
 * Experiment # 2 (Only Fully-connected on ResNet-18): You can download model from [here](https://drive.google.com/open?id=1-7X0q8F_xqOAdHz-8jVleRm60_78-Gfq)
 * Experiment # 3 (Fully Connected + 1 Convolution Layer on VGG-16): You can download model from [here](https://drive.google.com/open?id=1pPuYMLkKqgl6zEQpVM-zI0TsXr_dYZ6X`)
 * Experiment # 4 (Fully Connected + 1 Convolution Layer on ResNet-18): You can download model from [here](https://drive.google.com/open?id=1--ZyzQe-bS0F0uzsrlfb96cjqF9pI_kr)
