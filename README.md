@@ -14,17 +14,17 @@ You can download dataset from [here](https://drive.google.com/open?id=1-HQQciKYf
   World is suffering from a global pandemic caused by a virus named Covid-19. Its symptoms are much similar to other diseases like viral flu, or SARS, or pneumonia. In this assignment we were given a dataset of 15,000 X-Ray images. These images are labeled as ‘Normal’ and ‘Infected’. What we have to do is to train a model that learn normal X-Ray images and differentiate it with Infected X-Ray images. For this task we used well known deep learning library named as ‘Pytorch’. We also used pre-trained VGG-16 and ResNet-18 models, trained on ImageNet for training of model.
 ## Results:
 ### Task 1: Training only Fully connected Layers
-#### VGG-16 Testing	Accuracy = 93.46
+#### VGG-16 Accuracy = 93.46
 #### VGG-16 Confusion Matrix
 ![](images/conf1.png)
-#### ResNet-18 Testing	Accuracy = 91.53
+#### ResNet-18 Accuracy = 91.53
 #### ResNet-18 Confusion Matrix
 ![](images/conf2.png)
 ### Task 2: Training entire network
-#### VGG-16 Testing	Accuracy = 97.57
+#### VGG-16	Accuracy = 97.57
 #### VGG-16 Confusion Matrix
 ![](images/conf3.png)
-#### ResNet-18 Testing	Accuracy = 96.60
+#### ResNet-18 Accuracy = 96.60
 #### ResNet-18 Confusion Matrix
 ![](images/conf4.png)
 ## Predicted Results
