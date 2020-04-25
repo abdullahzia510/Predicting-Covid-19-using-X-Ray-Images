@@ -19,7 +19,8 @@ You can download dataset from [here](https://drive.google.com/open?id=1-HQQciKYf
 
 ## Results:
 ### Training only Fully connected Layers
-#### VGG-16
+#### VGG-16 
 ##### Accuracy 
+Testing	Accuracy = 93.46
 ##### Confusion Matrix
-
+![](images/confusion matrix exp 1.png )
